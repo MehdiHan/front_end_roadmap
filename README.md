@@ -80,7 +80,7 @@
 
 ## Type Checkers
 
--[ ] TypeScript
+- [ ] TypeScript
 
 ## Server Side Rendering / Static Site Generators
 
