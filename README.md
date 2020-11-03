@@ -28,7 +28,7 @@
 - [x] Conventions and Best practices
 - [x] Making Layouts
 - [x] Responsive design
-- [x] Bootstrap / Fundation
+- [x] Bootstrap / Tailwind / Materialize
 - [x] SASS
 
 ## JS
@@ -36,8 +36,10 @@
 - [x] Learn the fundamentals
 - [x] Conventions and Best practices
 - [x] Learn DOM Manipulation
+- [x] Developer Console - Debugging
+- [x] ES6+ and modular Javascript
+- [x] Local Storage / Session Storage
 - [ ] Learn Fetch API / Ajax (XHR)
-- [ ] ES6+ and modular Javascript
 - [ ] Understand the concepts
 - [ ] Async / Promises
 - [ ] Design Patterns
