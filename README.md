@@ -39,10 +39,10 @@
 - [x] Developer Console - Debugging
 - [x] ES6+ and modular Javascript
 - [x] Local Storage / Session Storage
-- [ ] Learn Fetch API / Ajax (XHR)
+- [x] Learn Fetch API / Ajax (XHR)
+- [x] Async / Promises
+- [x] Design Patterns
 - [ ] Understand the concepts
-- [ ] Async / Promises
-- [ ] Design Patterns
 - [ ] Paradigms
 - [ ] Testing tools
 
@@ -60,9 +60,9 @@
 
 ## Build Tools
 
+- [x] Linters and Formatters
 - [ ] Task Runners
 - [ ] Module Bundlers
-- [ ] Linters and Formatters
 
 ## Framework
 
@@ -97,7 +97,7 @@
 - [x] Interactive Front End Web Development by Jon Duckett
 - [x] Javascript For Web Designers by Mat Marquis
 - [x] Responsive Web Design by Ethan Marcotte
+- [x] Clean Code by Uncle Bob
+- [x] Cracking the Coding Interview by Gayle Laakmann McDow
 - [ ] Eloquent Javascript 3rd Edition by Marijn Haverbeke
 - [ ] You don't know JS Book Series by Kyle Simpson
-- [ ] Clean Code by Uncle Bob
-- [ ] Cracking the Coding Interview by Gayle Laakmann McDow
