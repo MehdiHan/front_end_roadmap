@@ -55,18 +55,18 @@
 
 ## Package Managers
 
-- [ ] npm
-- [ ] yarn
+- [x] npm
+- [x] yarn
 
 ## Build Tools
 
 - [x] Linters and Formatters
+- [x] Module Bundlers
 - [ ] Task Runners
-- [ ] Module Bundlers
 
 ## Framework
 
-- [ ] React.js
+- [x] React.js
 - [ ] Vue.js
 
 ## Modern CSS
