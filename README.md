@@ -100,4 +100,4 @@
 - [x] Clean Code by Uncle Bob
 - [x] Cracking the Coding Interview by Gayle Laakmann McDow
 - [x] Eloquent Javascript 3rd Edition by Marijn Haverbeke
-- [ ] You don't know JS Book Series by Kyle Simpson
+- [x] You don't know JS Book Series by Kyle Simpson
