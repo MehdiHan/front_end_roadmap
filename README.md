@@ -99,5 +99,5 @@
 - [x] Responsive Web Design by Ethan Marcotte
 - [x] Clean Code by Uncle Bob
 - [x] Cracking the Coding Interview by Gayle Laakmann McDow
-- [ ] Eloquent Javascript 3rd Edition by Marijn Haverbeke
+- [x] Eloquent Javascript 3rd Edition by Marijn Haverbeke
 - [ ] You don't know JS Book Series by Kyle Simpson
